@@ -1,0 +1,87 @@
+{
+	"BUILD_DIR" : "/home/ly/projects/robot_ws/build/pages_pkg/node_autogen",
+	"CMAKE_BINARY_DIR" : "/home/ly/projects/robot_ws/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/ly/projects/robot_ws/build/pages_pkg",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/ly/projects/robot_ws/src/pages_pkg",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/ly/projects/robot_ws/src",
+	"HEADERS" : 
+	[
+		[
+			"/home/ly/projects/robot_ws/src/pages_pkg/src/mainwindow.h",
+			"MU",
+			"UVLADIE3JM/moc_mainwindow.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/ly/projects/robot_ws/build/pages_pkg/node_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/ly/projects/robot_ws/build/pages_pkg/node_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"ROSCONSOLE_BACKEND_LOG4CXX",
+		"ROS_BUILD_SHARED_LIBS=1",
+		"ROS_PACKAGE_NAME=\"pages_pkg\""
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/ly/projects/robot_ws/build/pages_pkg",
+		"/home/ly/projects/robot_ws/src/pages_pkg",
+		"/home/ly/projects/robot_ws/src/pages_pkg/include/pages_pkg",
+		"/home/ly/projects/robot_ws/src/pages_pkg/include",
+		"/opt/ros/noetic/include",
+		"/opt/ros/noetic/include/xmlrpcpp",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/ly/projects/robot_ws/build/pages_pkg/node_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/ly/projects/robot_ws/build/pages_pkg/CMakeFiles/node_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/ly/projects/robot_ws/build/pages_pkg/CMakeFiles/node_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/ly/projects/robot_ws/src/pages_pkg/src/main_node.cpp", "MU" ],
+		[ "/home/ly/projects/robot_ws/src/pages_pkg/src/mainwindow.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

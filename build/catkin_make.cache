@@ -1,2 +1,2 @@
 pages_pkg
--G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/ly/projects/robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ly/projects/robot_ws/install
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/ly/projects/gitprojects/robot_ws_git/devel -DCMAKE_INSTALL_PREFIX=/home/ly/projects/gitprojects/robot_ws_git/install

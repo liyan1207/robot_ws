@@ -7,4 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/ly/projects/robot_ws/build'
+export PWD='/home/ly/projects/gitprojects/robot_ws_git/build'
+export ROS_PACKAGE_PATH='/home/ly/projects/robot_ws/src:/home/ly/projects/gitprojects/robot_ws_git/src:/home/ly/projects/robot_ws/src:/opt/ros/noetic/share'

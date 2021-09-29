@@ -1,4 +1,4 @@
-prefix=/home/ly/projects/robot_ws/install
+prefix=/home/ly/projects/gitprojects/robot_ws_git/install
 
 Name: pages_pkg
 Description: Description of pages_pkg

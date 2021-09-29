@@ -1,4 +1,4 @@
-prefix=/home/ly/projects/robot_ws/devel
+prefix=/home/ly/projects/gitprojects/robot_ws_git/devel
 
 Name: pages_pkg
 Description: Description of pages_pkg
